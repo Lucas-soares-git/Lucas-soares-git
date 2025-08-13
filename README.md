@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Sou o Lucas Soares, sou programador Front End em evolução. 
+
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&width=600&lines=👋+Olá,+eu+sou+Lucas+Soares!;💻+Desenvolvedor+Frontend+em+evolução;🚀+Amante+de+código+limpo+e+responsivo)
 
 ## 🚀 Sobre mim
 - 📚 Meta 2025: Conseguir meu primeiro emprego como dev e turbinar meu portfólio
